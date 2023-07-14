@@ -26,5 +26,12 @@
     "imageUrl": "/corgi.png",
     "llm": "vicuna13b",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+  },
+  {
+    "name": "Lora",
+    "title": "I am a helpful assistant",
+    "imageUrl": "",
+    "llm": "chatgpt",
+    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
 ]
