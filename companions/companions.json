@@ -2,7 +2,7 @@
   {
     "name": "Lora",
     "title": "I am a helpful assistant",
-    "imageUrl": "",
+    "imageUrl": "/lora.png",
     "llm": "chatgpt",
     "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
   }
